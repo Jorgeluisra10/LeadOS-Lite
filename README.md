@@ -29,3 +29,21 @@ LeadOS Lite is a minimal full-stack CRM built with Next.js 15, Supabase and Tail
 
 1. Clone repo
 2. Add `.env.local`:
+
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+
+
+3. Run:
+
+npm install
+npm run dev
+
+
+## 📌 Purpose
+
+This project demonstrates:
+- Full-stack architecture
+- Secure authentication
+- Production-ready data modeling
+- Clean component structure
